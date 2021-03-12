@@ -1,0 +1,5 @@
+{
+  "dbURL": "mongodb+srv://shina:5647@ecom.u2qob.mongodb.net/test",
+  "jwtsecret": "thisismyawesomesecretkey",
+  "StripeAPIKey": "sk_test_51IUEunGv3450TkoKZ7nt1Gpmoo8pOGnV2V8K5iHXHTMuEJifDy5wucvixU3qOtkBPmp6BMJy65rTmTVP3XPupc7y00zx3eCNrE"
+}
